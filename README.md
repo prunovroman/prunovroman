@@ -7,6 +7,10 @@
   </a>
     <img src="https://komarev.com/ghpvc/?username=prunovroman&color=green">
 </div>
+<h1 align="center">
+  Hello there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 
