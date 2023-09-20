@@ -9,6 +9,9 @@
     <img alt="Views" src="https://komarev.com/ghpvc/?username=prunovroman&color=green">
 </div>
 <h1/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prunovroman&theme=github-compact&bg_color=ffffff"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prunovroman&theme=github"/>
+
 
 
 
