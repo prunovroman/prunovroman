@@ -1,16 +1,16 @@
-<div id="header" align="center" bgcolor="teal">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGptNnN0NmFsaXJoejhtN2doaGczazdoZXU0OG53czd5M2tkOXF0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ptzlRfMuHaGgccUzbh/giphy.gif" width="200"/>
+<div id="header" align="center" bgcolor="teal">  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG41ZjZsbHE1czgyenNxMHpkZnZqaXl2NXN6bGJrOTkyamN5ZGxseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000" height="250" />
 </div>
+<div height="30"/>
 <div align="center">
   <a href="https://www.linkedin.com/in/prunovroman-devops/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn">      
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn">      
   </a>
-    <img src="https://komarev.com/ghpvc/?username=prunovroman&color=green">
+    <img alt="Views" src="https://komarev.com/ghpvc/?username=prunovroman&color=green">
 </div>
-<h1 align="center">
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1/>
+
+
 
 
 
